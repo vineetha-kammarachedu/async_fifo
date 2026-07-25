@@ -46,7 +46,7 @@ The design was verified using:
 
 ## Tools Used
 - Verilog HDL
-- Xilinx Vivado 2024.2
+- Xilinx Vivado 2021.2
 
 ---
 
@@ -60,4 +60,4 @@ The design was verified using:
 ---
 
 ## Author
-Kapuluru Chethana
+Vineetha Kammarachedu
